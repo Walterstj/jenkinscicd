@@ -1,0 +1,1 @@
+172.31.30.90 ansible_user=ubuntu ansible_connection=ssh
