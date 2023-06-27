@@ -1,0 +1,5 @@
+---
+ - name: playbook
+ hosts: 172.31.30.90
+ tasks:
+   - command: date
